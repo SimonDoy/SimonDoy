@@ -3,6 +3,7 @@
 Welcome to my GitHub page.
 
 I am founder and owner of [iThink 365](https://www.ithink365.co.uk) who specialise building stuff for our customers on the Microsoft 365 and Microsoft Azure platforms.
+
 My background is in both Infrastructure and Development, though over the last few years I have been concentrating on Development and Solution Architecture. I generally build stuff in .NET and TypeScript using Angular or React frameworks.
 
 My interests in development centre on how to build maintainable and manageable solutions so I am always looking at things like Dev Ops, Instrumenting code and how to build things in a cleaner way. I talk more about those things on my [blog](https://www.simondoy.com).
